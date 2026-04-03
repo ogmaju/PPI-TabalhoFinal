@@ -1,0 +1,29 @@
+{
+  "name": "ppi-tabalhofinal",
+  "version": "1.0.0",
+  "description": "Sistema de Gerenciamento de Biblioteca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogmaju/PPI-TabalhoFinal.git"
+  },
+  "keywords": [
+    "biblioteca"
+  ],
+  "type": "module",
+  "author": "Maria Julia Orbolato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogmaju/PPI-TabalhoFinal/issues"
+  },
+  "homepage": "https://github.com/ogmaju/PPI-TabalhoFinal#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0"
+  }
+}
